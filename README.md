@@ -2,11 +2,11 @@
 
 ## Sign In/Up Page
 
-<img src="ssInsta/Sign.jpg" width="300" height="600"> <img src="ssInsta/Sign2.jpg" width="300" height="600">
+<img src="ssInsta/Sign.jpg" width="300" height="600"> <img src="ssInsta/SignUp.jpg" width="300" height="600">
 
 ## Home Page
 
-<img src="ssInsta/Home.jpg" width="300" height="600">
+<img src="ssInsta/InstaHome.jpg" width="300" height="600">
 
 ## Search Page
 
