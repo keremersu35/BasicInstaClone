@@ -1,5 +1,8 @@
 # BasicInstaClone
 
+I worked with Firebase in this project. Sign In/Up/Out functions, Upload photos with captions functions, search profile and see profile functions are working. Posts can be seen in profile and in home page as well. Notification page and following functions are not working.
+
+
 ## Sign In/Up Page
 
 <img src="ssInsta/Sign.jpg" width="300" height="600"> <img src="ssInsta/SignUp.jpg" width="300" height="600">
