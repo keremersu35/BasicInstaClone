@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp">
+
+    <ImageView
+        android:id="@+id/searchedProfilePhoto"
+        android:layout_width="3dp"
+        android:layout_height="82dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        tools:srcCompat="@drawable/unknown2" />
+
+    <TextView
+        android:id="@+id/searchedProfileText"
+        android:layout_width="wrap_content"
+        android:layout_height="61dp"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textSize="18sp" />
+</LinearLayout>
