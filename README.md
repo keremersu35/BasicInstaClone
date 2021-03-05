@@ -2,6 +2,6 @@
 
 ## Sign In/Up Page
 
-[Sign](ssInsta/Sign.jpg)
+<img src="ssInsta/Sign.jpg" width="400" height="800">
 [Sign Up](ssInsta2/SignUp.jpg)
 
